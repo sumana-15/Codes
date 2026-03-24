@@ -10,7 +10,7 @@ public class CheckPositive {
         if(check(n)){
             System.out.println("Positive");
         } else {
-            System.out.println("");
+            System.out.println("Not Positive");
         }
     }
 }
