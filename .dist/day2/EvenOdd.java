@@ -7,6 +7,6 @@ public class EvenOdd {
         int n = 5;
 
         boolean result = check(n);
-        System.out.println(result);
+        System.out.println();
     }
 }
