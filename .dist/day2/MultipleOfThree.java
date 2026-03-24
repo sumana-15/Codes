@@ -5,7 +5,7 @@ public class MultipleOfThree {
     }
 
     public static void main(String[] args) {
-        int n = 0;
+        int n = 9;
 
         if(check(n)){
             System.out.println("Multiple of  3");
