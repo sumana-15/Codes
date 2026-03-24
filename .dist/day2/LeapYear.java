@@ -7,7 +7,7 @@ public class Leapyear {
         int year = 2024;
 
         if(check(year)){
-            System.out.println("");
+            System.out.println("Leap Year");
         } else {
             System.out.println("Not a Leap Year");
         }
