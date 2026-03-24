@@ -8,7 +8,7 @@ public class CheckPositive {
         int n = 5;
 
         if(check(n)){
-            System.out.println("");
+            System.out.println("Positive");
         } else {
             System.out.println("Not Positive");
         }
