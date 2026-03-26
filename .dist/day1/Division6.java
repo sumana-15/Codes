@@ -1,6 +1,6 @@
 public class Division6 {
     static int solve(int a, int b) {
-        return a ;
+        return a /b ;
     }
 
     public static void main(String[] args) {
