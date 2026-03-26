@@ -1,7 +1,7 @@
 public class AddTwoNumbers2 {
 
     static int sum(int a, int b) {
-        return a + b;
+        return a ;
     }
 
     public static void main(String[] args) {
