@@ -8,7 +8,7 @@ public class IntegerInput {
 
         int result = solve(n);
 
-        System.out.println();
+        System.out.println(result);
     }
     
 }
