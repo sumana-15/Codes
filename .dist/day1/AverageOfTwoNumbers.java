@@ -10,7 +10,7 @@ public class AverageOfTwoNumbers {
 
         int result = solve(a, b);
 
-        System.out.println();
+        System.out.println(result);
     }
     
 }
