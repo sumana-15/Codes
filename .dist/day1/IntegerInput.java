@@ -9,13 +9,7 @@ public class IntegerInput {
         int result = solve(n);
 
        System.out.println(result); 
-       System.out.println(result);
-       System.out.println(result);
-       System.out.println(result);
-       System.out.println(result);
-       System.out.println(result);
-       System.out.println(result);
-       System.out.println(result);
+       
 
         
     }
