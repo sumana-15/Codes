@@ -17,6 +17,7 @@ public class Division6 {
         System.out.println(result);
         System.out.println(result);
         System.out.println(result);
+        System.out.println(result);
         
         
     }
