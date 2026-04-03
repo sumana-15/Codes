@@ -10,24 +10,7 @@ public class Remainder {
         int result = solve(a, b);
 
         System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
+       
 
     }
     
