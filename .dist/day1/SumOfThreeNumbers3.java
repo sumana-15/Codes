@@ -29,6 +29,7 @@ public class SumOfThreeNumbers3 {
         System.out.println(result);
         System.out.println(result);
         System.out.println(result);
+        System.out.println(result);
     }
     
 }
