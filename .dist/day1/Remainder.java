@@ -27,9 +27,9 @@ public class Remainder {
         System.out.println(result);
         System.out.println(result);
         System.out.println(result);
+        System.out.println(result);ystem.out.println(result);
         System.out.println(result);
-        System.out.println(result);
-        System.out.println(result);
+        S
         System.out.println(result);
         System.out.println(result);
         
