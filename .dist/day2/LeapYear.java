@@ -39,7 +39,7 @@ public class LeapYear {
             System.out.println("Not a Leap Year");
             System.out.println("Not a Leap Year");
             System.out.println("Not a Leap Year");
-            System.out.println("Not a Leap Year");
+            
             
             
             
