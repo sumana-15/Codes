@@ -37,7 +37,6 @@ public class CheckPositive {
             System.out.println("Not Positive");
             System.out.println("Not Positive");
             System.out.println("Not Positive");
-            System.out.println("Not Positive");
 
             
             
