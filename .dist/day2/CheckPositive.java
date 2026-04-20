@@ -11,6 +11,7 @@ public class CheckPositive {
             System.out.println("Positive");
         } else {
             System.out.println("Not Positive");
+            System.out.println("Not Positive");
             
         }
     }
