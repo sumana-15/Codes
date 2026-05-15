@@ -10,7 +10,6 @@ public class Multiplication4 {
 
         int result = solve(a, b);
         System.out.println(result);
-        System.out.println(result);
 
     }
 }
