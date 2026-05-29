@@ -12,6 +12,7 @@ public class SumOfThreeNumbers3 {
         int result = sum(a, b, c);
 
         System.out.println(result);
+        System.out.println(result);
         
         
     }
