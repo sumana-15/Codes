@@ -17,7 +17,6 @@ public class AddTwoNumbers2 {
         System.out.println(result);
         System.out.println(result);
         System.out.println(result);
-        System.out.println(result);
         
 
 
