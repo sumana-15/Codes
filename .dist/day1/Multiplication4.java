@@ -4,6 +4,9 @@ public class Multiplication4 {
         return a * b;
     }
 
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         int a = 5;
         int b = 10;
