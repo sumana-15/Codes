@@ -42,6 +42,7 @@ public class AverageOfTwoNumbers {
         System.out.println(result);
         System.out.println(result);
         System.out.println(result);
+        System.out.println(result);
     }
     
 }
