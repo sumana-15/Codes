@@ -30,7 +30,6 @@ public class IntegerInput {
        System.out.println(result);
        System.out.println(result);
        System.out.println(result);
-       System.out.println(result);
 
         
     }
