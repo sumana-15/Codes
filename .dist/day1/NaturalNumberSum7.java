@@ -10,6 +10,7 @@ public class NaturalNumberSum7 {
         int result = solve(n);
 
         System.out.println(result);
+        System.out.println(result);
 
 
         
