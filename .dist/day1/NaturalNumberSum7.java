@@ -36,6 +36,7 @@ public class NaturalNumberSum7 {
         System.out.println(result);
         System.out.println(result);
         System.out.println(result);
+        System.out.println(result);
 
 
         
