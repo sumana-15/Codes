@@ -22,6 +22,7 @@ public class Remainder {
         System.out.println(result);
         System.out.println(result);
         System.out.println(result);
+        System.out.println(result);
 
 
 
